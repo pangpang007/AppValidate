@@ -1,0 +1,27 @@
+.ant-layout-sider-children .logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.ant-layout-content {
+  padding: 24px 24px 0px 24px;
+}
+
+.ant-layout-footer {
+  height: 48px;
+  line-height: 20px;
+  padding: 14px 50px;
+}
+
+#root {
+  height: 100%;
+}
+
+.menu-wrapper {
+  height: 100%;
+}
